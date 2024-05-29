@@ -1,0 +1,8 @@
+channels
+channels-redis
+django
+django-cors-headers
+djangorestframework
+djangorestframework-simplejwt
+psycopg
+redis
